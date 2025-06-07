@@ -44,6 +44,7 @@ h1 {
 }
 .content {
     justify-self: end;
+    width: 100%;
 }
 
 .container {
